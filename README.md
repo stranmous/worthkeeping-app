@@ -1,5 +1,5 @@
 <div align="center">
-  <!-- Place your logo or banner image here -->
+ 
   <img src="<!-- INSERT_BANNER_IMAGE_URL_HERE -->" alt="WorthKeeping Banner" width="100%">
 
   # WorthKeeping
@@ -23,7 +23,7 @@ WorthKeeping helps you sort and back up your photos locally. Instead of relying 
 ### 1. Local Scanning
 The app analyzes your gallery using standard Android MediaStore APIs. It provides an estimate of your gallery's size and the time required for a full scan.
 
-<!-- Place your Scan Estimate / Progress screenshot here -->
+
 <div align="center">
   <img src="<!-- INSERT_SCAN_SCREENSHOT_URL_HERE -->" alt="Scan Screen" width="300">
 </div>
@@ -33,7 +33,7 @@ WorthKeeping uses ML Kit to help filter images:
 - **Face Detection:** Camera photos containing people are automatically marked as Keepers.
 - **Text Recognition (OCR):** Sensitive documents, receipts, and IDs are detected and flagged for manual review to prevent accidental deletion.
 
-<!-- Place your Results Summary / Review screenshot here -->
+
 <div align="center">
   <img src="<!-- INSERT_RESULTS_SCREENSHOT_URL_HERE -->" alt="Results Summary" width="300">
 </div>
@@ -41,7 +41,7 @@ WorthKeeping uses ML Kit to help filter images:
 ### 3. Folder Protection and Preferences
 Folders with names like "Important" or "Do not delete" are automatically excluded from the clutter list. You can also specify exact folders to be skipped during scans.
 
-<!-- Place your Scan Preferences screenshot here -->
+
 <div align="center">
   <img src="<!-- INSERT_PREFERENCES_SCREENSHOT_URL_HERE -->" alt="Scan Preferences" width="300">
 </div>
@@ -51,7 +51,7 @@ Once your keepers are identified, you can export them to a secure location:
 - **Local Storage:** Copies the organized files to a directory on your device. You can specify the destination folder name.
 - **Google Drive Backup:** Connects to Google Drive using the restricted `drive.file` scope. The app only has access to the specific backup folder it creates.
 
-<!-- Place your Export / Backup screenshot here -->
+
 <div align="center">
   <img src="<!-- INSERT_BACKUP_SCREENSHOT_URL_HERE -->" alt="Backup Options" width="300">
 </div>
@@ -59,7 +59,7 @@ Once your keepers are identified, you can export them to a secure location:
 ### 5. Safe Deletion
 The app does not delete files automatically. Any items marked as clutter must be manually reviewed and confirmed before they are moved to the Android system trash.
 
-<!-- Place your Clean / Trash screenshot here -->
+
 <div align="center">
   <img src="<!-- INSERT_CLEAN_SCREENSHOT_URL_HERE -->" alt="Safe Clean Up" width="300">
 </div>
