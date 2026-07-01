@@ -38,12 +38,12 @@ WorthKeeping uses ML Kit to help filter images:
   <img src="https://github.com/stranmous/worthkeeping-app/blob/main/app/2.jpeg" alt="Results Summary" width="300">
 </div>
 
-### 3. Folder Protection and Preferences
-Folders with names like "Important" or "Do not delete" are automatically excluded from the clutter list. You can also specify exact folders to be skipped during scans.
+### 3. Safe Deletion
+The app does not delete files automatically. Any items marked as clutter must be manually reviewed and confirmed before they are moved to the Android system trash.
 
 
 <div align="center">
-  <img src="<!-- INSERT_PREFERENCES_SCREENSHOT_URL_HERE -->" alt="Scan Preferences" width="300">
+  <img src="https://github.com/stranmous/worthkeeping-app/blob/main/app/3.jpeg" alt="Safe Clean Up" width="300">
 </div>
 
 ### 4. Export Options
@@ -53,15 +53,15 @@ Once your keepers are identified, you can export them to a secure location:
 
 
 <div align="center">
-  <img src="<!-- INSERT_BACKUP_SCREENSHOT_URL_HERE -->" alt="Backup Options" width="300">
+  <img src="https://github.com/stranmous/worthkeeping-app/blob/main/app/4.jpeg" alt="Backup Options" width="300">
 </div>
 
-### 5. Safe Deletion
-The app does not delete files automatically. Any items marked as clutter must be manually reviewed and confirmed before they are moved to the Android system trash.
+### 5. Folder Protection and Preferences
+Folders with names like "Important" or "Do not delete" are automatically excluded from the clutter list. You can also specify exact folders to be skipped during scans.
 
 
 <div align="center">
-  <img src="<!-- INSERT_CLEAN_SCREENSHOT_URL_HERE -->" alt="Safe Clean Up" width="300">
+  <img src="https://github.com/stranmous/worthkeeping-app/blob/main/app/5.jpeg" alt="Scan Preferences" width="300">
 </div>
 
 ---
