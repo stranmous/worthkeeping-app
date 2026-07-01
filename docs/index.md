@@ -27,4 +27,4 @@ If you choose to use the "Google Drive Backup" feature, WorthKeeping requires ac
 We may update this Privacy Policy from time to time. If we make significant changes, we will notify you by updating the date at the top of this policy.
 
 ## 5. Contact Us
-If you have any questions or concerns about this Privacy Policy, please contact us at: waqaszafarkhan8198@gmail.com
+If you have any questions or concerns about this Privacy Policy, please contact us at: waqaszafarkhan8198@gmail.com ; stranmous97@gmail.com
