@@ -108,16 +108,7 @@ To compile the application locally:
    cd worthkeeping-app
    ```
 
-2. **Configure Environment Variables:**
-   API keys are excluded from version control. Create a `local.properties` file in the root directory and add your keys:
-   
-   ```properties
-   SUPABASE_URL=your_supabase_url_here
-   SUPABASE_ANON_KEY=your_supabase_anon_key_here
-   ```
-   *(Note: The `google-services.json` file is not required because the app uses standard OAuth for Google Drive).*
-
-3. **Build the App:**
+2. **Build the App:**
    Open the project in Android Studio, sync Gradle, and run the app, or build via the command line:
    ```bash
    gradle installDebug
