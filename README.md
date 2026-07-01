@@ -25,7 +25,7 @@ The app analyzes your gallery using standard Android MediaStore APIs. It provide
 
 
 <div align="center">
-  <img src="<!-- INSERT_SCAN_SCREENSHOT_URL_HERE -->" alt="Scan Screen" width="300">
+  <img src="<https://github.com/stranmous/worthkeeping-app/blob/main/app/1.jpeg" alt="Scan Screen" width="300">
 </div>
 
 ### 2. Automated Categorization
