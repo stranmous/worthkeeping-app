@@ -35,7 +35,7 @@ WorthKeeping uses ML Kit to help filter images:
 
 
 <div align="center">
-  <img src="<!-- INSERT_RESULTS_SCREENSHOT_URL_HERE -->" alt="Results Summary" width="300">
+  <img src="https://github.com/stranmous/worthkeeping-app/blob/main/app/2.jpeg" alt="Results Summary" width="300">
 </div>
 
 ### 3. Folder Protection and Preferences
