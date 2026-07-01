@@ -1,6 +1,6 @@
 <div align="center">
  
-  <img src="<!-- INSERT_BANNER_IMAGE_URL_HERE -->" alt="WorthKeeping Banner" width="100%">
+  <img src="https://github.com/stranmous/worthkeeping-app/blob/main/app/WorthKeeping-logo.png" alt="WorthKeeping Banner" width="100%">
 
   # WorthKeeping
 
