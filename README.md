@@ -124,4 +124,4 @@ To compile the application locally:
 
 ## License
 
-All Rights Reserved. This project and its source code are proprietary.
+All Rights Reserved. This project and its source code are proprietary and not allowed for commercial use.
