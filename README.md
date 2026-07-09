@@ -83,7 +83,7 @@ Folders with names like "Important" or "Do not delete" are automatically exclude
 
 You can install the app using the APK provided in the repository.
 
-1. Download the latest `app-release.apk` from the [Releases](https://github.com/stranmous/worthkeeping-app/releases/tag/v1.0.0) page.
+1. Download the latest `WorthKeeping.apk` from the [Releases](https://github.com/stranmous/worthkeeping-app/releases/tag/v1.0.0) page.
 2. Open the APK on your Android device.
 3. If prompted, allow your file manager to "Install unknown apps."
 4. Complete the installation and open the app.
